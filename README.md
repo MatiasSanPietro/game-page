@@ -1,4 +1,10 @@
-https://game-page-nine.vercel.app/
+## Project description
+
+Technologies: React.js, TypeScript.
+
+front-end project to display games sorted by genre, platforms, relevance, date, name and popularity.
+
+Deployment link: https://game-page-nine.vercel.app/
 
 # React + TypeScript + Vite
 
